@@ -84,9 +84,6 @@ This Python script compares the performance of three different machine learning 
 
   
 
-### Examples 
-
-The script will generate 6 different plots and 3 different text files that demonstrate the performance of the three classifiers on the given dataset. 
 
   
 
@@ -102,7 +99,7 @@ If you find any issues or have suggestions for improvements, feel free to open a
 
 ### Contact 
 
-For any questions or feedback, please contact the project maintainer at [your_email@example.com](srkprasadchangala@gmail.com). 
+For any questions or feedback, please contact [here](srkprasadchangala@gmail.com). 
 
   
 
